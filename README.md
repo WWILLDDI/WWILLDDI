@@ -11,8 +11,5 @@ Skills: REACT / JS / HTML / CSS / SCSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WWILLDDI)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/diana-alexeeva-994ab5248/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wwillddi/)  
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WWILLDDI&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WWILLDDI)  
+ 
 
