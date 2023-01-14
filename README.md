@@ -1,10 +1,11 @@
 ### Hi there 👋, my name is Diana 
-#### I am a Frontend Developer
-I like programming and especially front-end development because I can help businesses create the best product, and people get it.
-
+#### I am a passionate Frontend Developer
+I like programming and especially front-end development because I like to create innovative web products that people can enjoy it.
 I like to create beautiful and meaningful things, with consistent structure and style.
 
 Learning new things and putting them into practice is my passion.
+
+![cattyping](https://user-images.githubusercontent.com/107324813/212471604-75bc711c-3d6f-42f9-9226-54fdb84ffcc9.gif)
 
 Skills: REACT / JS / HTML / CSS / SCSS
 
